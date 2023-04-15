@@ -1,0 +1,13 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg);
+    text-align:center;
+}
+ 
+ul {
+    list-style: none;
+}
